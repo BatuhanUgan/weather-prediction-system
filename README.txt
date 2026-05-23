@@ -34,3 +34,6 @@ For more detailed metrics, theoretical background, and an architectural breakdow
    pip install -r requirements.txt
 
 streamlit run Main.py
+
+## Demo
+![Application Demo](./Demo.gif)
