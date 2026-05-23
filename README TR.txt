@@ -34,3 +34,6 @@ Bu projenin daha detaylı metrikleri, teorik arka planı ve mimari dökümü iç
    pip install -r requirements.txt
 
 streamlit run Main.py
+
+## Demo
+![Uygulama Demosu](./Demo.gif)
